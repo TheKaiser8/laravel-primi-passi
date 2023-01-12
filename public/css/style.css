@@ -1,0 +1,6 @@
+body {
+    background-image: radial-gradient(circle, #fff, greenyellow, blue)
+}
+.text-center {
+    text-align: center;
+}
